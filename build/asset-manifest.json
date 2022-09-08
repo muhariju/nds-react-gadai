@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muhariju/nds-react-gadai/static/css/main.aa4c2ce7.css",
+    "main.js": "/muhariju/nds-react-gadai/static/js/main.9196ed09.js",
+    "static/js/787.a3103ff7.chunk.js": "/muhariju/nds-react-gadai/static/js/787.a3103ff7.chunk.js",
+    "index.html": "/muhariju/nds-react-gadai/index.html",
+    "main.aa4c2ce7.css.map": "/muhariju/nds-react-gadai/static/css/main.aa4c2ce7.css.map",
+    "main.9196ed09.js.map": "/muhariju/nds-react-gadai/static/js/main.9196ed09.js.map",
+    "787.a3103ff7.chunk.js.map": "/muhariju/nds-react-gadai/static/js/787.a3103ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4c2ce7.css",
+    "static/js/main.9196ed09.js"
+  ]
+}
