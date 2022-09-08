@@ -1,7 +1,7 @@
 {
   "name": "demo-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/muhariju/nds-reactspringboot-gadai",
+  "homepage": "https://github.com/muhariju/nds-react-gadai",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
