@@ -1,0 +1,49 @@
+.collection {
+    display: inline-block;
+    width: 1000px;
+    margin: 15px 15px;
+  }
+  
+  .row {
+    margin-bottom: 0px;
+  }
+  
+  .item-card {
+    border: solid 1px black;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-size: 22px;
+  }
+  
+  #quantity {
+    height: auto;
+    width: 40px;
+    font-size: 18px;
+    padding: 0px 5px;
+    border: solid 1px black;
+    margin: -2px 6px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+  }
+  
+  .item-image {
+    height: 90px;
+    width: 90px;
+  }
+  
+  .item-price {
+    margin-top: 18px;
+    font-size: 18px;
+  }
+  
+  .truncate2 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+  }
+  
