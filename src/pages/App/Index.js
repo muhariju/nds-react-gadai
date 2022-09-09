@@ -14,14 +14,14 @@ function App() {
     <BrowserRouter>
       <NavBar />
       <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route exact path="/code-lab" element={<CodeLab />} />
-        <Route exact path="/loan-form" element={<LoanForm />} />
-        <Route exact path="/marketplace" element={<Marketplace />} />
-        <Route exact path="/shopping-cart" element={<ShoppingCart />} />
-        <Route exact path="/user" element={<User />} />
-        <Route exact path="/addUser" element={<AddUser />} />
-        <Route exact path="/detailUser" element={<DetailUser />} />
+        <Route exact path="/nds-react-gadai/" element={<Home />} />
+        <Route exact path="/nds-react-gadai/code-lab" element={<CodeLab />} />
+        <Route exact path="/nds-react-gadai/loan-form" element={<LoanForm />} />
+        <Route exact path="/nds-react-gadai/marketplace" element={<Marketplace />} />
+        <Route exact path="/nds-react-gadai/shopping-cart" element={<ShoppingCart />} />
+        <Route exact path="/nds-react-gadai/user" element={<User />} />
+        <Route exact path="/nds-react-gadai/addUser" element={<AddUser />} />
+        <Route exact path="/nds-react-gadai/detailUser" element={<DetailUser />} />
       </Routes>
     </BrowserRouter>
   );
